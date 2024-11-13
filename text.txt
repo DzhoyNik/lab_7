@@ -1,0 +1,7 @@
+The history of the C++ language begins in 1979, when Dennis Ritchie and Bjarne Stroustrup worked at Bell Labs. They wanted to create a programming language that would combine the flexibility and efficiency of the C language, as well as an object-oriented paradigm. This is how the C++ language appeared, which means "C plus" in translation.
+
+Initially, C++ was developed as an extension of the C language, but over time it became an independent programming language. In 1983, the first version of C++ was released, which already had the basic principles of object-oriented programming, such as classes, inheritance and polymorphism.
+
+In 1998, the ISO/IEC 14882 standard was released, which established standards for the C++ language. This standard included many new features such as templates, exceptions, namespaces, and many others.
+
+Over time, C++ has become one of the most popular programming languages in the world. It is used to develop a wide range of applications, from games and mobile applications to system programming and scientific computing.
